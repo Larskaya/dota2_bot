@@ -1,0 +1,5 @@
+config.py
+heroku-x64.exe
+Pipfile
+Pipfile.lock
+__pycache__/
